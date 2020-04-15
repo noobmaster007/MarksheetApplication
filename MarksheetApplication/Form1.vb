@@ -13,6 +13,10 @@
 
         total = 100 + 100 + 100 + 100 + 100
         lblTotalMarks.Text = total
+        kjeshfkjsebfse
+        fsekjfsbekjfs
+        sekjfbeskjfesbf
+        sefjesbfksbefsk
 
     End Sub
 End Class
